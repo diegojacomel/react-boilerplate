@@ -101,7 +101,7 @@ const boticarioTheme = {
         px60: '60px',
     },
     fontWeight: {
-        light: 300,
+        light: 100,
         normal: 400,
         bold: 700,
     },
