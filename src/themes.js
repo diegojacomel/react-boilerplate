@@ -104,6 +104,7 @@ const boticarioTheme = {
         light: 100,
         normal: 400,
         bold: 700,
+        x: 0,
     },
     fontFamily: {
         default: `"Lato", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif"`,
