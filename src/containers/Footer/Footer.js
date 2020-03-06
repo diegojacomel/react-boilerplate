@@ -13,11 +13,7 @@ const FooterStyled = styled('footer')`
 `;
 
 function Footer() {
-    return (
-        <FooterStyled>
-            Footer        
-        </FooterStyled>
-    );
+    return <FooterStyled>Footer</FooterStyled>;
 }
 
 export default Footer;
