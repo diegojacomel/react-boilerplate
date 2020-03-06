@@ -15,11 +15,7 @@ const HeaderStyled = styled('header')`
 `;
 
 function Header() {
-    return (
-        <HeaderStyled>
-            O Boticário
-        </HeaderStyled>
-    );
+    return <HeaderStyled>O Boticário</HeaderStyled>;
 }
 
 export default Header;

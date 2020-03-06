@@ -9,11 +9,7 @@ const HomeStyled = styled('div')`
 `;
 
 function Home() {
-    return (
-        <HomeStyled>
-            Home
-        </HomeStyled>
-    );
+    return <HomeStyled>Home</HomeStyled>;
 }
 
 export default Home;
